@@ -2,7 +2,7 @@
 <p align="center">
   <a href="" rel="noopener">
   <img width=200px src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg" alt="Angular logo">
-  <img width=200px src="https://raw.githubusercontent.com/jessesampaio/Angular-PokeDex/main/src/assets/logo.svg" alt="Pokedex logo" style="margin-bottom:20px" ></a>
+  <img width=200px height=100px src="https://raw.githubusercontent.com/jessesampaio/Angular-PokeDex/main/src/assets/logo.svg" alt="Pokedex logo"></a>
 </p>
 
 <h3 align="center">Projeto: PokeDex</h3>
