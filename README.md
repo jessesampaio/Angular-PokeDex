@@ -1,27 +1,27 @@
 # Pokedex
+<div align="center">
+  <p>
+    <img width=200px src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg" alt="Angular logo"></a>
+  </p>
+</div>
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.0.
+<h3 align="center">Projeto: PokeDex</h3>
 
-## Development server
+<div align="center">
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+[![Status](https://img.shields.io/badge/status-active-success.svg)]()
+[![GitHub Issues](https://img.shields.io/github/languages/count/jessesampaio/algamoney-api)]()
+[![GitHub Pull Requests](https://img.shields.io/github/last-commit/jessesampaio/algamoney-api)]()
+[![Made By](https://img.shields.io/badge/Made%20By-Jessé%20Sampaio-brightgreen)]()
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](/LICENSE)
 
-## Code scaffolding
+</div>
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
 
-## Build
+### Como Executar
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+Após baixar o projeto, deve ser executado o comando `npm install`, posteriormente o comando `npm start` e acessar o endereço `http://localhost:4200`
 
-## Running unit tests
+### Exemplo da aplicação funcionando
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+[Aplicação](https://troquatte.github.io/curso-angular-pokedex/)
